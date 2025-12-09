@@ -1,0 +1,115 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: #22343d;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header-logo {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 93%;
+  color: #173a56;
+}
+
+.header-nav-product {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 175%;
+}
+
+.header-nav-pricing {
+  line-height: 175%;
+}
+
+.header-nav-customer {
+  line-height: 175%;
+}
+
+.header-nav-resources {
+  line-height: 175%;
+}
+
+.header-sign-in-btn {
+  font-weight: 600;
+  color: #173a56;
+  border-radius: 4px;
+  background-color: none;
+}
+
+.header-sign-up-btn {
+  font-weight: 600;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #02897a;
+}
+
+.hero-heading {
+  font-size: 40px;
+  line-height: 150%;
+}
+
+.hero-text {
+  font-size: 18px;
+  line-height: 156%;
+}
+
+.hero-btn {
+  font-weight: 700;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #02897a;
+}
+
+.hero-link {
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #02897a;
+}
+
+.tiny-desc-of-product-heading {
+  font-size: 32px;
+  text-align: center;
+}
+
+.tiny-desc-of-product-list-items-heading {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.tiny-desc-of-product-list-items-text {
+  line-height: 162%;
+}
+
+.tiny-desc-of-product-btn {
+  font-weight: 700;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #02897a;
+}
+
+.management-subtitle {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.management-heading {
+  font-size: 32px;
+}
+
+.management-texts {
+  line-height: 162%;
+}
+
+.management-titles {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 162%;
+}
