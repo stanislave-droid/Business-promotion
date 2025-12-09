@@ -114,3 +114,59 @@ ul {
   font-size: 16px;
   line-height: 162%;
 }
+
+.support-subtitle {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.support-heading {
+  font-size: 32px;
+}
+
+.support-list-items-text {
+  line-height: 162%;
+}
+
+.collaboration-subtitle {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.collaboration-heading {
+  font-size: 32px;
+}
+
+.collaboration-text {
+  line-height: 162%;
+}
+
+.collaboration-title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 162%;
+}
+
+.experts-heading {
+  font-size: 32px;
+  text-align: center;
+}
+
+.experts-text {
+  font-weight: 500;
+  line-height: 162%;
+  text-align: center;
+}
+
+.experts-list-items-text {
+  font-weight: 500;
+  text-align: center;
+  color: #2f281e;
+}
+
+.experts-btn {
+  font-weight: 700;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #02897a;
+}
